@@ -1,0 +1,17 @@
+{
+	"name": "pn",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"pn.js"
+		]
+	},
+	"out": "js/dist/",
+	"src": "js/src/",
+	"debug": false
+}

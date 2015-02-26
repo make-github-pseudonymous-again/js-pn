@@ -1,0 +1,33 @@
+{
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"author": "aureooms",
+	"devDependencies": {
+		"aureooms-node-package": "^2.0.3"
+	},
+	"keywords": [
+		"bricks",
+		"compiler",
+		"javascript",
+		"js",
+		"notation",
+		"polish"
+	],
+	"name": "aureooms-js-pn",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-pn/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-pn.git"
+	},
+	"description": "polish notation code bricks for JavaScript",
+	"dependencies": {},
+	"license": "AGPL-3.0",
+	"main": "js/dist/pn.js",
+	"homepage": "http://aureooms.github.io/js-pn/",
+	"version": "0.0.0"
+}
