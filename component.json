@@ -7,5 +7,5 @@
 	"main": "js/dist/pn.js",
 	"name": "aureooms-js-pn",
 	"repo": "aureooms/js-pn",
-	"version": "0.0.0"
+	"version": "0.0.1"
 }
