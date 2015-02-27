@@ -32,3 +32,4 @@ var pull = function ( compile , isop , token , stack , count ) {
 
 } ;
 
+exports.pull = pull ;
