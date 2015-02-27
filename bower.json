@@ -4,7 +4,7 @@
 	"main": "js/dist/pn.js",
 	"homepage": "http://aureooms.github.io/js-pn/",
 	"name": "aureooms-js-pn",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"ignore": [
 		"js/index.js",
 		"js/src",

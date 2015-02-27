@@ -38,19 +38,16 @@ var pull = function ( compile , isop , token , stack , count ) {
 
 } ;
 
+exports.pull = pull ;
 
-/* js/src/push.js */
+/* js/src/validate.js */
 
-var push = function ( compile , isop , tokens , stack , count ) {
+var validate = function ( isop , token , count ) {
 
-	var token ;
-
-	do {
-
-		token = tokens.next( ) ;
-
-	} while ( pull( compile , isop , token , stack , count ) ) ;
+	return isop( token ) || ! count.empty( ) ;
 
 } ;
+
+exports.validate = validate ;
 
 })(typeof exports === 'undefined' ? this['pn'] = {} : exports);
