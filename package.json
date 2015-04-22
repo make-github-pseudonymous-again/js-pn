@@ -29,5 +29,5 @@
 	"license": "AGPL-3.0",
 	"main": "js/dist/pn.js",
 	"homepage": "http://aureooms.github.io/js-pn/",
-	"version": "0.2.0"
+	"version": "0.2.1"
 }
