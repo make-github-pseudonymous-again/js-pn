@@ -16,7 +16,7 @@
 		"notation",
 		"polish"
 	],
-	"name": "aureooms-js-pn",
+	"name": "@aureooms/js-pn",
 	"bugs": {
 		"url": "https://github.com/aureooms/js-pn/issues"
 	},
