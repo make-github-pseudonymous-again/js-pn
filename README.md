@@ -1,4 +1,4 @@
-[js-pn](http://aureooms.github.io/js-pn)
+[js-pn](http://make-github-pseudonymous-again.github.io/js-pn)
 ==
 
 polish notation code bricks for JavaScript

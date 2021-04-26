@@ -2,7 +2,7 @@
   "description": "polish notation code bricks for JavaScript",
   "license": "AGPL-3.0",
   "main": "js/dist/pn.js",
-  "homepage": "http://aureooms.github.io/js-pn/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-pn/",
   "name": "aureooms-js-pn",
   "version": "0.2.1",
   "ignore": [
