@@ -18,11 +18,11 @@
 	],
 	"name": "@aureooms/js-pn",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-pn/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-pn/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-pn.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-pn.git"
 	},
 	"description": "polish notation code bricks for JavaScript",
 	"dependencies": {},
